@@ -1,0 +1,9 @@
+{
+    "name": "GIRL3",
+    "description": "An example of women empowerment",
+    "image": "https://ipfs.io/ipfs/QmRwuG658Ttmb7L8Svi2zYFnGtbFMSUFyb8SnoGqzajzez?filename=girl3.png",
+    "attributes": {
+        "trait_type": "empowering",
+        "value": 100
+    }
+}
